@@ -1,0 +1,6 @@
+language: java
+jdk:
+  - openjdk18
+script: mvn clean install
+notifications:
+  email: damodarrrhce@gmail.com
