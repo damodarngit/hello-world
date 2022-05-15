@@ -9,7 +9,7 @@
     <br>
 
     <label for="mobile"><b>Mobile No: </b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Email-Id:</b></label>
@@ -25,13 +25,13 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registration">Register</button>
   </div>
-  <div class="container signin">
+  <div class="container sign in">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou</h1>
+   <h1> Thank you</h1>
 
 
 </form>
