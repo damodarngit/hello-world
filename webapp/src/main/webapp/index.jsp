@@ -1,22 +1,22 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Please fill the registration form</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>Please fill the registration form Below</h1>
+    <p>Please fill in this form to create your account.</p>
     <hr>
 
-    <label for="Name"><b>Name: </b></label>
+    <label for="Your Name"><b>Name: </b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="mobile"><b>Mobile No: </b></label>
+    <label for="Your mobile"><b>Mobile No: </b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Email-Id:</b></label>
+    <label for="Your email"><b>Email-Id:</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="Your psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
