@@ -20,7 +20,7 @@ Registration Page
 Course :  
 </label>   
 <select>  
-<option value="Courses">Course</option>  
+<option value="Courseskkkkkk">Course</option>  
 <option value="BCA">BCA</option>  
 <option value="BBA">BBAA</option>  
 <option value="B.Tech">B.Tech</option>  
