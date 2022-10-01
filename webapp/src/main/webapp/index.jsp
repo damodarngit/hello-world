@@ -11,9 +11,9 @@ Registration Page
   
 <label> dude your first name???? </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
-<label> Middlename: </label>     
+<label> Middlename:this is updated </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
-<label> dude your last name???: </label>         
+<label> dude your last name???:this is updated </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
   
 <label>   
