@@ -24,7 +24,7 @@ Course :
 <option value="BCA">BCA</option>  
 <option value="BBA">BBAA</option>  
 <option value="B.Tech">B.Tech</option>  
-<option value="MBA">MBA</option>  
+<option value="MBAa">MBAa</option>  
 <option value="MCA">MCA</option>  
 <option value="M.Tech">M.Tech</option>  
 <option value="M.Sc.IT">M.Sc.IT</option>
