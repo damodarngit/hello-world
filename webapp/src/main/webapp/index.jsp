@@ -9,9 +9,9 @@ Registration Page
 <br>  
 <form>  
   
-<label> What is your Firstname </label>         
+<label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
-<label> What is your Middlename: </label>     
+<label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
 <label> Lastname: </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
