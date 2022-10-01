@@ -9,25 +9,24 @@ Registration Page
 <br>  
 <form>  
   
-<label> dude your first name???? </label>         
+<label>First name</label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
-<label> Middlename:this is updated </label>     
+<label>Middlename</label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
-<label> dude your last name???:this is updated </label>         
+<label>Last name</label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
   
 <label>   
 Course :  
 </label>   
 <select>  
-<option value="Courseskkkkkk">Course</option>  
+<option value="Courses">Course</option>  
 <option value="BCA">BCA</option>  
-<option value="BBA">BBAA</option>  
+<option value="BBA">BBA</option>  
 <option value="B.Tech">B.Tech</option>  
-<option value="MBAa">MBAa</option>  
+<option value="MBAa">MBA</option>  
 <option value="MCA">MCA</option>  
 <option value="M.Tech">M.Tech</option>  
-<option value="M.Sc.IT">M.Sc.IT</option>
 </select>  
   
 <br>  
