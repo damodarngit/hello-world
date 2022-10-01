@@ -27,6 +27,7 @@ Course :
 <option value="MBA">MBA</option>  
 <option value="MCA">MCA</option>  
 <option value="M.Tech">M.Tech</option>  
+<option value="M.Tech DS">M.Tech DS</option>
 <option value="M.Sc.IT">M.Sc.IT</option>
 </select>  
   
