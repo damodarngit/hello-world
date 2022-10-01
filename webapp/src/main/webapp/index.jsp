@@ -9,11 +9,11 @@ Registration Page
 <br>  
 <form>  
   
-<label> What is your Firstname </label>         
+<label> dude your first name???? </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
-<label> What is your Lastname tell: </label>         
+<label> dude your last name???: </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
   
 <label>   
