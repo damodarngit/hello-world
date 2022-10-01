@@ -8,7 +8,7 @@ Registration Page
 <br>  
 <br>  
 <form>  
-  
+<h1><cener>Registration Page</center></h1><br> 
 <label>First name</label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label>Middlename</label>     
