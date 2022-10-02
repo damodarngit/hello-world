@@ -13,7 +13,7 @@ Registration Page
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label>Updated this Enter your Middlename</label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
-<label>Last name</label>         
+<label>Your Last name</label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
   
 <label>   
