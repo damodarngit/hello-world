@@ -9,12 +9,14 @@ Registration Page
 <br>  
 <form>  
 <h1><cener>Registration Page</center></h1><br> 
-<label>Updated this Ener your First name</label>         
+<label>First name</label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
-<label>Updated this Enter your Middlename</label>     
+<label>Middlename</label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
-<label>Your Last name</label>         
+<label>Last name</label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
+<label>Age</label>
+<input type="text" name="Age" size="15"/> <br> <br>
   
 <label>   
 Course :  
