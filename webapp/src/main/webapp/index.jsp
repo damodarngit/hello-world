@@ -9,9 +9,9 @@ Registration Page
 <br>  
 <form>  
 <h1><cener>Registration Page</center></h1><br> 
-<label>Ener your First name</label>         
+<label>Updated this Ener your First name</label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
-<label>Enter your Middlename</label>     
+<label>Updated this Enter your Middlename</label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
 <label>Last name</label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
