@@ -8,7 +8,7 @@ Registration Page Updated by DAMODARARAO N
 <br>  
 <br>  
 <form>  
-<h1><cener>Registration Page Updated by DAMODARARAO N</center></h1><br> 
+<h1><cener>Registration Page Here</center></h1><br> 
 <label>Your First name</label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label>Middlename</label>     
