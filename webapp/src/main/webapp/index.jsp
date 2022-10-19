@@ -1,7 +1,7 @@
 <Html>  
 <head>   
 <title>  
-Registration Page Updated by DAMODARARAO N 
+Registration Page 
 </title>  
 </head>  
 <body bgcolor="Lightskyblue">  
