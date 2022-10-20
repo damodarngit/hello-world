@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
 <h1><cener>Registration for WF Demo</center></h1><br> 
-<label>Your First name</label>         
+<label>First name</label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label>Middlename</label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
